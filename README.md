@@ -1,4 +1,4 @@
-c
+
 # 💫 About Me:
 ⚡Specialized in AI and Machine Learning, with skills in Python, Data Science, and Generative AI. Exploring LLMs, Deep Learning, and NLP while building practical, real-world projects using modern AI tools and technologies.
 
