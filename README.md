@@ -37,6 +37,6 @@ Tools
 🏆 Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" /> </div>
 🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/theatiff/theatiff/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </div>
 🤝 Let's Connect
 <div align="center"> <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> </div> <br/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=7B2FF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9D%A4%EF%B8%8F;Don't+forget+to+leave+a+%E2%AD%90" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
