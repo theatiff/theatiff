@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Atif%20Khan&fontSize=70&fontColor=00f7ff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Atif%20Khan&fontSize=70&fontColor=00f7ff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=18"/>
 
 </div>
 <h2 align="center">👨‍💻 About Me</h2> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1800&color=00F7FF&center=true&vCenter=true&width=750&height=40&lines=Beyond+the+Code%2C+There+Is+Curiosity.;Learning+Today.+Building+Tomorrow.;Driven+by+Ideas%2C+Powered+by+Code." alt="About Animation"/> </div> <br/> <table align="center"> <tr> <td width="55%" valign="top">
