@@ -23,4 +23,4 @@ I enjoy exploring new technologies and turning ideas into practical applications
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+stopping+by!+%E2%9C%A8;Keep+Creating.+Keep+Exploring.+%F0%9F%9A%80" alt="Footer Message"/> </div> <!-- BOTTOM ANIMATION --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,40:302b63,75:7B2FF7,100:090979&height=160&section=footer&animation=twinkling"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&height=35&lines=Thanks+for+stopping+by!+%E2%9C%A8;Keep+Creating.+Keep+Exploring.+%F0%9F%9A%80" alt="Footer Message"/> </div> <!-- BOTTOM ANIMATION --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,40:302b63,75:7B2FF7,100:090979&height=160&section=footer&animation=twinkling"/> -->
